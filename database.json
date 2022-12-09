@@ -1,0 +1,37 @@
+[{
+  "title": "ТАСС",
+  "status": "propaganda",
+  "url": [{
+    "link": "https://tass.ru"
+  },
+  {
+    "link": "https://vk.com/tassagency"
+  },
+  {
+    "link": "https://ok.ru/tassagency"
+  },
+  {
+    "link": "https://t.me/tass_agency"
+  }],
+  "cause": "Российское государственное федеральное информационное агентство, бывшее советское информационное агентство. В прошлом носило название «Телеграфное агенство Советского Союза»."
+},
+{
+  "title": "RT",
+  "status": "propaganda",
+  "url": [{
+    "link": "https://www.rt.com"
+  },
+  {
+    "link": "https://vk.com/rt_russian"
+  },
+  {
+    "link": "https://twitter.com/RT_russian"
+  },
+  {
+    "link": "https://t.me/rt_russian"
+  },
+  {
+    "link": "https://ok.ru/rtrussian "
+  }],
+  "cause": "Российский государственный медиахолдинг. Финансируется российским правительством преимущественно из государственного бюджета."
+}]
